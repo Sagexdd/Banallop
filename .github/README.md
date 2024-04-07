@@ -24,7 +24,7 @@
 </details><details>
 <summary><h4><strong>❍&nbsp;Deploy On Heroku 🚀.</strong></h4></summary>
 <blockquote><strong>Hey You can deploy this bot on <code>Heroku</code> very easly from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=https://github.com/Sagexdd/Banallop/"><img src="https://img.shields.io/badge/Deploy%20To%20HerokBanallk?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Sagexdd/Banallop/"><img src="https://img.shields.io/badge/Deploy%20To%20HerokBanallp?style=for-the-badge&logo=heroku" width="200""/></a>
 </blockquote> 
 </details>
 </p>
